@@ -6,6 +6,7 @@ theme = ['hugo-video', 'terminal']
 [params]
   #fullWidthTheme = true
   centerTheme = true
+  showFullContent = true
 
 [languages]
   [languages.en]
