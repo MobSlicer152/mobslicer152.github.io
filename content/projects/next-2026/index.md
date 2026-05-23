@@ -11,9 +11,11 @@ main issue with the code I did write was that it was underdocumented, but I was 
 at least structure it well.
 
 {{< div >}}
-{{< image src="/projects/next-2026/light_billboard.png" width="49%" style="display: inline; word-break:;" >}} {{< image src="/projects/next-2026/md2_plant_chunky.png" width="50%" position="right" >}}
+{{< image src="/projects/next-2026/light_billboard.png" width="49%" >}}
+{{< image src="/projects/next-2026/md2_plant_chunky.png" width="50%" >}}
 {{</ div >}}
 
 {{< div >}}
-{{< image src="/projects/next-2026/md2_plant_smooth.png" width="49%" >}} {{< image src="/projects/next-2026/md2_plant_wireframe.png" width="50%" position="right" >}}
+{{< image src="/projects/next-2026/md2_plant_smooth.png" width="49%" >}}
+{{< image src="/projects/next-2026/md2_plant_wireframe.png" width="50%" >}}
 {{</ div >}}

@@ -10,5 +10,7 @@ and a basic CPU 3D rasterizer.
 
 [GitHub](https://github.com/MobSlicer152/demos)
 
-{{< video src="demo1.mp4" >}}
-{{< video src="demo2.mp4" >}}
+{{< div >}}
+{{< video src="demo1.mp4" width="50%" >}}
+{{< video src="demo2.mp4" width="50%" >}}
+{{</ div >}}
