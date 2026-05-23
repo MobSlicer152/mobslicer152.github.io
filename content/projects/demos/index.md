@@ -8,5 +8,5 @@ I've recently taken an interest in the demoscene, and so I've written a few demo
 They're written in C++ and have Perlin noise, ordered Bayer dithering, and basic 3D
 software rasterization.
 
-{{< video src="demo1" >}}
-{{< video src="demo2" >}}
+{{< video src="demo1" alt="" >}}
+{{< video src="demo2" alt="" >}}
