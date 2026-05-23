@@ -6,7 +6,6 @@ theme = ['hugo-video', 'terminal']
 [params]
   #fullWidthTheme = true
   centerTheme = true
-  showFullContent = true
 
 [languages]
   [languages.en]
@@ -30,12 +29,11 @@ theme = ['hugo-video', 'terminal']
         logoText = 'Elena McNeil'
         logoHomeLink = '/'
   
-  
   [languages.en.menu]
     [[languages.en.menu.main]]
-      identifier = "about"
-      name = "About"
-      url = "/about"
+      identifier = "skills"
+      name = "Skills"
+      url = "/skills"
     
     [[languages.en.menu.main]]
       identifier = "projects"
