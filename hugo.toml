@@ -1,0 +1,42 @@
+baseURL = '/'
+locale = 'en-ca'
+title = 'Elena McNeil'
+theme = ['hugo-video', 'terminal']
+
+[params]
+  #fullWidthTheme = true
+  centerTheme = true
+
+[languages]
+  [languages.en]
+    title = 'Elena McNeil'
+  
+    [languages.en.params]
+      subtitle = 'Programmer'
+      owner = 'Elena McNeil'
+      copyright = 'Copyright (c) Elena McNeil 2026'
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
+    
+      [languages.en.params.logo]
+        logoText = 'Elena McNeil'
+        logoHomeLink = '/'
+  
+  
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name = "About"
+      url = "/about"
+    
+    [[languages.en.menu.main]]
+      identifier = "projects"
+      name = "Projects"
+      url = "/projects"
