@@ -9,4 +9,4 @@ The final revision had a basic renderer with Vulkan, Direct3D 12, and OpenGL bac
 
 It supported Windows, Linux, and Nintendo Switch. This is a demo of it running on my modded Switch:
 
-{{< video src="purpl" >}}
+{{< video src="purpl.mp4" >}}

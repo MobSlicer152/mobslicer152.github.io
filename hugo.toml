@@ -1,7 +1,7 @@
 baseURL = '/'
 locale = 'en-ca'
 title = 'Elena McNeil'
-theme = ['hugo-video', 'terminal']
+theme = ['terminal']
 
 [params]
   #fullWidthTheme = true
