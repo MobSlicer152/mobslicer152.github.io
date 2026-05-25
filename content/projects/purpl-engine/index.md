@@ -4,9 +4,9 @@ draft = false
 title = 'Purpl Engine'
 +++
 
-Purpl Engine is my first game engine project. It went through several revisions before I moved on to other projects.
-The final revision had a basic renderer with Vulkan, Direct3D 12, and OpenGL backends, and could do basic lighting.
-It supported Windows, Linux, and Nintendo Switch.
+Purpl Engine is my first game engine project. It went through several revisions stretching as far back as 2019,
+before I moved on to other projects. The final revision had a basic renderer with Vulkan, Direct3D 12, and OpenGL
+backends, and could do basic lighting. It supported Windows, Linux, and Nintendo Switch.
 
 [GitHub](https://github.com/RandomcodeDev/purpl-engine)
 
